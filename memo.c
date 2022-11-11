@@ -1,7 +1,7 @@
 /* 
    Assignment #1 IoT 22: 
    ---------------------
-   The deadline for the assessment is fixed to friday 18th november at 00:00.
+   The deadline for the assessment is fixed to Friday 18th November at 00:00.
 
    The grade can only be: G or IG.
 
@@ -41,11 +41,11 @@
 
    09-11-2022 10:30:06
 
-   Note: Each entry in the database is comma separeted values (CSV).
+   Note: Each entry in the database is comma separated values (CSV).
    Which means that you'll be able to import the database e.g. in Excel.
 
-   All functions have to be writen in a file called "libmemo.c" and need
-   to be compiled as an independant object file (.o) that will be
+   All functions have to be written in a file called "libmemo.c" and need
+   to be compiled as an independent object file (.o) that will be
    linked with the main program object file "memo.o" to create the
    final program "memo".
 
